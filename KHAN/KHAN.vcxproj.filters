@@ -13,10 +13,109 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\BOJ">
+      <UniqueIdentifier>{972715fc-d7fb-4a66-b599-2535f4fab0bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Algorithm">
+      <UniqueIdentifier>{95d63e41-5d55-419d-95b9-00f053400e02}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="..\..\..\boj\BOJ\1010.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1011.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1152.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1157.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1193.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1475.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1550.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1735.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1759.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1934.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1978.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2292.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2422.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2433.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2522.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2523.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2577.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2675.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2751.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2775.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2908.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2920.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2941.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\6064.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\8958.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\10039.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\10250.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\10809.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\11654.cpp">
+      <Filter>Source Files\BOJ</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\Algorithm\combination.cpp">
+      <Filter>Source Files\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\Algorithm\memoization.cpp">
+      <Filter>Source Files\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\Algorithm\merge_sort.cpp">
+      <Filter>Source Files\Algorithm</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

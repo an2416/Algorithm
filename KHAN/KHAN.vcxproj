@@ -78,7 +78,38 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="..\..\..\boj\Algorithm\combination.cpp" />
+    <ClCompile Include="..\..\..\boj\Algorithm\memoization.cpp" />
+    <ClCompile Include="..\..\..\boj\Algorithm\merge_sort.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\10039.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1010.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1011.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\10250.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\10809.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1152.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1157.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\11654.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1193.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1475.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1550.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1735.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1759.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1934.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\1978.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2292.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2422.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2433.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2522.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2523.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2577.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2675.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2751.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2775.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2908.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2920.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\2941.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\6064.cpp" />
+    <ClCompile Include="..\..\..\boj\BOJ\8958.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
