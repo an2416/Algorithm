@@ -78,38 +78,102 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\boj\Algorithm\combination.cpp" />
-    <ClCompile Include="..\..\..\boj\Algorithm\memoization.cpp" />
-    <ClCompile Include="..\..\..\boj\Algorithm\merge_sort.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\10039.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1010.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1011.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\10250.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\10809.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1152.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1157.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\11654.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1193.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1475.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1550.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1735.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1759.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1934.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\1978.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2292.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2422.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2433.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2522.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2523.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2577.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2675.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2751.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2775.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2908.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2920.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\2941.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\6064.cpp" />
-    <ClCompile Include="..\..\..\boj\BOJ\8958.cpp" />
+    <ClCompile Include="..\..\..\boj\Algorithm\combination.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\Algorithm\memoization.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\Algorithm\merge_sort.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\10039.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1010.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1011.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\10250.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\10809.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1152.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1157.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\11654.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1193.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1475.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1550.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1735.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1759.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1934.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\1978.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2292.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2422.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2433.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2522.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2523.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2577.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2675.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2751.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2775.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2908.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2920.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\2941.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\6064.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\boj\BOJ\8958.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
